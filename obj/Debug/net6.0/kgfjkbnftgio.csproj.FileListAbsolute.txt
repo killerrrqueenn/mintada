@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\kgfjkbnftgio\bin\Debug\net6.0\kgfjkbnftgio.exe
+C:\Users\hp\Desktop\kgfjkbnftgio\bin\Debug\net6.0\kgfjkbnftgio.deps.json
+C:\Users\hp\Desktop\kgfjkbnftgio\bin\Debug\net6.0\kgfjkbnftgio.runtimeconfig.json
+C:\Users\hp\Desktop\kgfjkbnftgio\bin\Debug\net6.0\kgfjkbnftgio.dll
+C:\Users\hp\Desktop\kgfjkbnftgio\bin\Debug\net6.0\kgfjkbnftgio.pdb
+C:\Users\hp\Desktop\kgfjkbnftgio\obj\Debug\net6.0\kgfjkbnftgio.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\kgfjkbnftgio\obj\Debug\net6.0\kgfjkbnftgio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\kgfjkbnftgio\obj\Debug\net6.0\kgfjkbnftgio.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\kgfjkbnftgio\obj\Debug\net6.0\kgfjkbnftgio.AssemblyInfo.cs
+C:\Users\hp\Desktop\kgfjkbnftgio\obj\Debug\net6.0\kgfjkbnftgio.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\kgfjkbnftgio\obj\Debug\net6.0\kgfjkbnftgio.dll
+C:\Users\hp\Desktop\kgfjkbnftgio\obj\Debug\net6.0\refint\kgfjkbnftgio.dll
+C:\Users\hp\Desktop\kgfjkbnftgio\obj\Debug\net6.0\kgfjkbnftgio.pdb
+C:\Users\hp\Desktop\kgfjkbnftgio\obj\Debug\net6.0\kgfjkbnftgio.genruntimeconfig.cache
+C:\Users\hp\Desktop\kgfjkbnftgio\obj\Debug\net6.0\ref\kgfjkbnftgio.dll
